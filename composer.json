@@ -1,0 +1,21 @@
+{
+    "name": "ikimea/jabber-jaxl-bundle",
+    "type": "symfony-bundle",
+    "description": "Symfony bundle that allows your application to interact with Jabber based instant messaging services like GoogleTalk ",
+    "keywords": ["components", "xmpp", "bundle", "jaxl"],
+    "homepage": "https://github.com/mmbechezi/JabberJaxlBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mbechezi Mlanawo",
+            "email": "mlanawo.mbechezi@ikimea.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "autoload": {
+        "psr-0": { "Ikimea\\JabberJaxlBundle": "" }
+    },
+    "target-dir": "Ikimea/JabberJaxlBundle"
+}
